@@ -1,2 +1,4 @@
-7dc2215 (HEAD -> main, origin/main, origin/HEAD) Task 1.1 fix the format  after CheckStyle
+073ad05 (HEAD -> main, origin/main, origin/HEAD) Task 2.1 refactor StatementPrinter
+2212802 Task 1.2: Complete git log --online
+7dc2215 Task 1.1 fix the format  after CheckStyle
 5802be5 Initial commit
